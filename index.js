@@ -1,3 +1,5 @@
+const token = '';
+
 function getIssues() {
 }
 
